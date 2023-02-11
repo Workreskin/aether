@@ -3,8 +3,8 @@
 
   "banner_type":"admob",
   "inter_type":"admob",
-  "native_type":"admob",
-  "reward_type": "admob",
+  "native_type":"ca-app-pub-3940256099942544/3986624511",
+  "reward_type": "ca-app-pub-3940256099942544/1712485313",
 
   "applovin_banner":"c7eab0d80118b34b",
   "applovin_interstitial":"fae408ffab4ac106",
